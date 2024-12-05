@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/nyanprakash.com/static/css/main.b47c9d7c.css",
-    "main.js": "/nyanprakash.com/static/js/main.c3ad3bd6.js",
-    "static/js/453.1f01ce47.chunk.js": "/nyanprakash.com/static/js/453.1f01ce47.chunk.js",
-    "static/media/bigMe.JPG": "/nyanprakash.com/static/media/bigMe.0a88c075270c72ab39e5.JPG",
-    "static/media/jump_logoreal.png": "/nyanprakash.com/static/media/jump_logoreal.b2e9b79bb26f58935697.png",
-    "static/media/DeepGuardImage.png": "/nyanprakash.com/static/media/DeepGuardImage.a2d0d3ffe5dec22f3462.png",
-    "static/media/healthwaybg.webp": "/nyanprakash.com/static/media/healthwaybg.a5d8bf99de613b1ab11b.webp",
-    "static/media/deepguard.webp": "/nyanprakash.com/static/media/deepguard.47384fe5eaec13bd5c35.webp",
-    "static/media/resumeicon.png": "/nyanprakash.com/static/media/resumeicon.d459cb8db93ae73407c6.png",
-    "static/media/ln.png": "/nyanprakash.com/static/media/ln.b08ed49102d3c8b1dbf1.png",
-    "static/media/github.png": "/nyanprakash.com/static/media/github.94da0bfcf6f452d21507.png",
-    "static/media/healthway_image.png": "/nyanprakash.com/static/media/healthway_image.1aa3ff0ce24aa8982c7b.png",
-    "static/media/ecoway_image.png": "/nyanprakash.com/static/media/ecoway_image.3bf53ba45937596647df.png",
-    "static/media/autodog_image.png": "/nyanprakash.com/static/media/autodog_image.4a9bd7893b158eb1a77d.png",
-    "static/media/gryphone_image.png": "/nyanprakash.com/static/media/gryphone_image.e15e8dd7c7d2b5f553ce.png",
-    "static/media/pnnl.png": "/nyanprakash.com/static/media/pnnl.50ee65c00bb03c16f9a6.png",
-    "index.html": "/nyanprakash.com/index.html",
-    "main.b47c9d7c.css.map": "/nyanprakash.com/static/css/main.b47c9d7c.css.map",
-    "main.c3ad3bd6.js.map": "/nyanprakash.com/static/js/main.c3ad3bd6.js.map",
-    "453.1f01ce47.chunk.js.map": "/nyanprakash.com/static/js/453.1f01ce47.chunk.js.map"
+    "main.css": "/static/css/main.b47c9d7c.css",
+    "main.js": "/static/js/main.cb574376.js",
+    "static/js/453.1f01ce47.chunk.js": "/static/js/453.1f01ce47.chunk.js",
+    "static/media/bigMe.JPG": "/static/media/bigMe.0a88c075270c72ab39e5.JPG",
+    "static/media/jump_logoreal.png": "/static/media/jump_logoreal.b2e9b79bb26f58935697.png",
+    "static/media/DeepGuardImage.png": "/static/media/DeepGuardImage.a2d0d3ffe5dec22f3462.png",
+    "static/media/healthwaybg.webp": "/static/media/healthwaybg.a5d8bf99de613b1ab11b.webp",
+    "static/media/deepguard.webp": "/static/media/deepguard.47384fe5eaec13bd5c35.webp",
+    "static/media/resumeicon.png": "/static/media/resumeicon.d459cb8db93ae73407c6.png",
+    "static/media/ln.png": "/static/media/ln.b08ed49102d3c8b1dbf1.png",
+    "static/media/github.png": "/static/media/github.94da0bfcf6f452d21507.png",
+    "static/media/healthway_image.png": "/static/media/healthway_image.1aa3ff0ce24aa8982c7b.png",
+    "static/media/ecoway_image.png": "/static/media/ecoway_image.3bf53ba45937596647df.png",
+    "static/media/autodog_image.png": "/static/media/autodog_image.4a9bd7893b158eb1a77d.png",
+    "static/media/gryphone_image.png": "/static/media/gryphone_image.e15e8dd7c7d2b5f553ce.png",
+    "static/media/pnnl.png": "/static/media/pnnl.50ee65c00bb03c16f9a6.png",
+    "index.html": "/index.html",
+    "main.b47c9d7c.css.map": "/static/css/main.b47c9d7c.css.map",
+    "main.cb574376.js.map": "/static/js/main.cb574376.js.map",
+    "453.1f01ce47.chunk.js.map": "/static/js/453.1f01ce47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b47c9d7c.css",
-    "static/js/main.c3ad3bd6.js"
+    "static/js/main.cb574376.js"
   ]
 }
